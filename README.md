@@ -23,9 +23,6 @@ Essa continuação tem o consumo de API do site [ExchangeRate](https://www.excha
 
 ✔️ Definir Taxas de câmbio com o consumo de API;
 
-# 
-O bloco try(tentar) tenta executar um código e caso ocorra uma exceção, o catch(pegar), a captura e faz o tratamento dela. Após uma exceção ter alcançado o bloco catch, o código volta ao fluxo normal de execução para fora do try catch.
-
 # Função JS utilizados:🛠️
 >* ``async``
 >essas funções podem realizar operações que demoram algum tempo, sem bloquear a execução do programa. É uma forma de escrever funções que podem fazer várias coisas ao mesmo tempo, sem travar o programa

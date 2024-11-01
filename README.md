@@ -34,3 +34,9 @@ Essa continuação tem o consumo de API do site [ExchangeRate](https://www.excha
 >O bloco try(tentar) tenta executar um código e caso ocorra uma exceção
 >* ``catch``
 >o catch(pegar), a captura e faz o tratamento dela. Após uma exceção ter alcançado o bloco catch, o código volta ao fluxo normal de execução para fora do try catch.
+
+~~~ Javascript
+
+try{
+        const response = await fetch(`${apiURL}${daMoeda}`);
+        const data = response.json();

@@ -1,3 +1,7 @@
+/* Importação de fontes */
+h1{
+    font-family: Nexa-ExtraLight;
+}
 
 body {
     font-family: Arial, sans-serif;
@@ -5,7 +9,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
-    
+
  
 }
  
@@ -76,4 +80,5 @@ button {
 
 h1{
     background-color: blue ;
+
 }

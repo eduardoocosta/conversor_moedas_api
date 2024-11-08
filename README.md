@@ -3,6 +3,9 @@
 # License
 >![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white) 
 
+![tela do sistema](projeto.png)
+
+
 # Descrição do projeto
 Este projeto foi desenvolvido na aula de PWI (Programação Web 1), ministrada pelo professor [Leonardo Rocha](https://github.com/leonardossrocha). Esse projeto é a continuação do anterior [𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒐𝒓 𝒅𝒆 𝒎𝒐𝒆𝒅𝒂𝒔](https://github.com/eduardoocosta/conversao_de_moedas)
 Essa continuação tem o consumo de API do site [ExchangeRate](https://www.exchangerate-api.com/)

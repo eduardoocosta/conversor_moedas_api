@@ -15,13 +15,15 @@ Essa continuação tem o consumo de API do site [ExchangeRate](https://www.excha
 
 ✔️ Preencher Formulário;
 
-✔️ Converter moeda;
-
 ✔️ Inserir valor;
+
+✔️ Converter moeda;
 
 ✔️ Resultado do valor inserido;
 
-✔️ Definir Taxas de câmbio com o consumo de API;
+✔️ Conversão em Tempo Real com o consumo de API;
+
+
 
 # Função JS utilizados:🛠️
 >* ``async``
